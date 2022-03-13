@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+### Welcome to G-engine server website
 
-You can use the [editor on GitHub](https://github.com/ItzFimes/itzfimes.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This website would be mainly used for downloading new versions of G-Server that G-engine uses [editor on GitHub](https://github.com/ItzFimes/itzfimes.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
